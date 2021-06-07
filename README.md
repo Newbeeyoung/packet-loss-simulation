@@ -1,4 +1,4 @@
-#Packet Loss Simulation in Video Streaming
+# Packet Loss Simulation in Video Streaming
 
 Modification of github repo [https://github.com/sumanth232/vlc-streaming-mininet](https://github.com/sumanth232/vlc-streaming-mininet). Video stream is transmitted in a 2-switch network, each swith is connect to one host.
 ## Preprocess Video Data
